@@ -9,8 +9,8 @@
 
 ## Pausers Keys
 ### Kadena
-- Private: ``685fd49b74fd18747c1b98261a7674ef9b57ca102cd25e14fea102852702ca9a``
-- GitHub: ``TBD``
+- *Private*: ``685fd49b74fd18747c1b98261a7674ef9b57ca102cd25e14fea102852702ca9a``
+- *GitHub*:  ``98de35b287a43426d2b8ea521e94d8282450a91d56e4748a22b2d25b2614a22d``
 
 ### Ethereum
 - *Temporary*: ``0xA3E3d28b681142AB28C1fBf3419387F53D26af3e``
@@ -34,7 +34,7 @@
 - Ethereum: ``TBD``
 - Kadena: ``TBD``
 
-## mackinac
+## mackinac (Test Validator)
 - Ethereum: ``TBD``
 - Kadena ``TBD``
 
