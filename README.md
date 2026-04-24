@@ -34,4 +34,17 @@
 - Ethereum: ``TBD``
 - Kadena: ``TBD``
 
+## mackinac
+- Ethereum: ``TBD``
+- Kadena ``TBD``
 
+## Operators
+
+### Ethereum:
+Pays for gas on Ethereum for validators and relayers
+- Relayers + Validators: ``0x02198cC71835baAe1b1B295eb49BB8365AC237e6``
+
+### Kadena
+Pays for gas on Kadena
+- Relayers: ``9e067b9bc735bafe7ca288d8986887f4299cb3608e6299364db78333665a3d38``
+- Validators: ``090e68cfd00c41ee4aeb86c477f95560d6cccc8d74cdfe5e6bcb5185914a54a9``
