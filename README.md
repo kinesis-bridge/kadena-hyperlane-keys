@@ -35,8 +35,8 @@
 - Kadena: ``TBD``
 
 ## mackinac (Test Validator)
-- Ethereum: ``TBD``
-- Kadena ``TBD``
+- Ethereum: ``0x3acc899778Eb5f8B686F107db19386FdDF1aAb9E``
+- Kadena ``0xdA74Df375633E752175e9B84d2745fd507090ac7``
 
 ## Operators
 
