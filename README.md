@@ -13,7 +13,7 @@
 - *GitHub*:  ``98de35b287a43426d2b8ea521e94d8282450a91d56e4748a22b2d25b2614a22d``
 
 ### Ethereum
-- *Temporary*: ``0xA3E3d28b681142AB28C1fBf3419387F53D26af3e``
+- *ISM Pauser*: ``0xcA3607E6a40748a7475A9bdE95dcD46540Ae854a``
 
 
 ## Validators
