@@ -27,8 +27,8 @@
 - Kadena: ``TDB``
 
 ## alcantara
-- Ethereum: ``TBD``
-- Kadena: ``TDB``
+- Ethereum: ``0x0dDD272EA5997281A026F33e53c2DcD29B7D702C``
+- Kadena: ``0x99C1e5f0A1cf9561491F74773faB484D1fFe9bc3``
 
 ## canakkale
 - Ethereum: ``TBD``
