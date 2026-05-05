@@ -23,8 +23,8 @@
 - Kadena: ``TDB``
 
 ## huajiang
-- Ethereum: ``TBD``
-- Kadena: ``TDB``
+- Ethereum: ``0xdab5d005bb50f0b19e265eafb9d6056e661e2e30fd7e121cbfd33354b1bc6d11``
+- Kadena: ``0x57b559487c82b79f90affcf1171f4824c441d8827ecdc4a6a373bffe93545e07``
 
 ## alcantara
 - Ethereum: ``0x0dDD272EA5997281A026F33e53c2DcD29B7D702C``
