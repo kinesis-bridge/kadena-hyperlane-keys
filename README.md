@@ -42,6 +42,10 @@
 - Ethereum: ``TBD``
 - kadena: ``TBD``
 
+## forth
+- Ethereum: ``TBD``
+- kadena: ``TBD``
+
 ## Operators
 
 ### Ethereum:
