@@ -19,32 +19,44 @@
 ## Validators
 
 ## millau
+*In honor of liberty, equality, fraternity*
 - Ethereum: ``TBD``
 - Kadena: ``TDB``
 
 ## huajiang
+*In honor of our beloved extraordinary Chinese builders*
 - Ethereum: ``0x45FA8486ae26EaeB1031E9B9Ee858B1d694bac83``
 - Kadena: ``0xc32b401467d030CB9Fd37f16B1A1A111fC28E7D3``
 
 ## alcantara
+*People always built bridges to connect together... One of the most amazing ancient bridge*
 - Ethereum: ``0x0dDD272EA5997281A026F33e53c2DcD29B7D702C``
 - Kadena: ``0x99C1e5f0A1cf9561491F74773faB484D1fFe9bc3``
 
 ## canakkale
+*Connecting Asian to European people is the key to solve all problems of our world*
 - Ethereum: ``TBD``
 - Kadena: ``TBD``
 
 ## mackinac (Test Validator)
+*To be disabled soon*
 - Ethereum: ``0x3acc899778Eb5f8B686F107db19386FdDF1aAb9E``
 - Kadena ``0xdA74Df375633E752175e9B84d2745fd507090ac7``
 
 ## vinteCincoAbril
+*In honor of our Portuguese friends, liberty and peace, through the power of Carnations* 
 - Ethereum: ``TBD``
-- kadena: ``TBD``
+- Kadena: ``TBD``
 
 ## forth
+*In honor of British genius and madness*
 - Ethereum: ``TBD``
-- kadena: ``TBD``
+- Kadena: ``TBD``
+
+## gordieHowe
+*In honor of the friendship of the peoples of North America that certain morons are trying to destroy*
+ - Ethereum: ``TBD``
+ - Kadena: ``TBD``
 
 ## Operators
 
