@@ -46,7 +46,8 @@
 ## vinteCincoAbril
 *In honor of our Portuguese friends, liberty and peace, through the power of Carnations* 
 - Ethereum: ``TBD``
-- Kadena: ``TBD``
+- Kadena: ``0x5895a6038ac422f74932cb5fbfe028d15de7d424``
+**Not yet activated**
 
 ## forth
 *In honor of British genius and madness*
